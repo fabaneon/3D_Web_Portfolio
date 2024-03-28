@@ -69,7 +69,7 @@ const Navbar = () => {
 
   <div className="sm:hidden flex flex-1
           justify-end items-center" //이건 모바일 UI
-          >
+           >
            
             <img
             src={toggle ? close : menu}
